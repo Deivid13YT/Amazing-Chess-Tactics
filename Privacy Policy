@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Amazing Chess Tactics</title>
+  <meta name="description" content="Read the Privacy Policy for Amazing Chess Tactics, covering data use, cookies, third-party links, and your rights under GDPR and CCPA.">
+  <meta name="author" content="Amazing Chess Tactics">
+  <meta name="robots" content="index, follow">
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/727/727399.png" type="image/png">
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="animated-background"></div>
+
+  <header class="navbar">
+    <h1 class="site-title">Privacy Policy</h1>
+    <nav class="nav-links">
+      <a href="index.html">Back to Home</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <section class="section-card yellow-background">
+      <div class="section-content centered-text">
+        <p><strong>Effective Date:</strong> 09/05/2025</p>
+        <p>Welcome to Amazing Chess Tactics. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href="https://AmazingChessTactics" target="_blank">https://AmazingChessTactics</a> (the “Site”)...</p>
+        <!-- Resto del contenido (ya incluido en tu documento actual) -->
+        <!-- ... -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Amazing Chess Tactics. All rights reserved.</p>
+    <a href="index.html">Back to Home</a>
+  </footer>
+</body>
+</html>
